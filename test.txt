@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Testing 3
-=======
-Testing 1
->>>>>>> 6176beafb868560b04e4152747bb1bf1cccc6e61
+Testing 4
